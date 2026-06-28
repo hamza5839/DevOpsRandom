@@ -1,1 +1,1 @@
-Welcome to the world of DevOps!
+devops is the blend of development and operations. and is a cultural and technical methadology  that unite software Developers and IT operations Teams. 
